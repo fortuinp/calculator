@@ -1,0 +1,42 @@
+*,
+::after,
+::before{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    border:0cap;
+    background-color:lightgrey ;
+}
+div{
+    display: flex;
+    justify-content: baseline;
+    align-items:baseline;
+}
+
+button{
+    width:3rem ;
+    height:3rem ;
+    background-color: darkgray;
+    gap: 4rem;
+    font-weight: bold;
+
+
+}
+#screen{
+    width: 12rem;
+    height: 3rem;
+    text-decoration-line: overline;
+    border-color: black;
+    border: 2px solid;
+    
+}
+#sign{
+    color: white;
+    background-color: black;
+}
+#c{
+    background-color: red;
+    color: wheat;
+}
