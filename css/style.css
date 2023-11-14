@@ -5,9 +5,12 @@
     padding: 0%;
     box-sizing: border-box;
 }
+
 body{
     border:0cap;
     background-color:lightgrey ;
+    justify-content: center;
+    align-items: center;
 }
 div{
     display: flex;
@@ -24,7 +27,7 @@ button{
 
 
 }
-#screen{
+#display{
     width: 12rem;
     height: 3rem;
     text-decoration-line: overline;
